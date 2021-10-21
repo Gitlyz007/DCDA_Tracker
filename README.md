@@ -3,7 +3,7 @@ This work aims to mine the target representation capability of a pre-trained mod
 on spatial and semantic priors, we propose an edge-aware selection (EAS) and a central-aware selection (CAS) method to aggregate the accuracy-aware and robustness-aware features. To make full use of the scene context, our method is derived from one-shot learning by designing a dedicated regression process that is capable of predicting discriminative model in a few iterations. By exploiting robustness feature aggregation, the accuracy feature aggregation, and the discriminative regression, our DCDA with Siamese tracking architecture not only enhances the target prediction capacity, but also achieves a lowcost reuse of the pre-trained model.
 <p align="center">
     <a>
-        <img src="Fig_aggregation.jpeg" width="550">
+        <img src="Fig_aggregation.jpeg" width="650">
     </a>
 </p>
 
