@@ -14,9 +14,11 @@ is derived from one-shot learning by designing a dedicated regression process th
         <img src="Fig_network.jpeg" width="550">
     </a>
 </p> -->
+## Code
+Source code will be made public after appropriate refactoring.
 
 ## Results
-
+The raw result files will upload opon our paper online.
 ### OTB
 Raw results on OTB-2015 [[results]](raw_results/DCDA_OTB2015.zip).
 |  Method | Dataset |  Success  |  Precision|   
@@ -32,15 +34,15 @@ Raw results on OTB-2015 [[results]](raw_results/DCDA_OTB2015.zip).
 ### VOT
 Raw results on VOT2016 [[results]](raw_results/DCDA_VOT2016.zip), VOT2017 [[results]](raw_results/DCDA_VOT2017.zip).
 
-We also develop a version with AlphaRefine[link], and evaluated on VOT2021 .
+We also develop a version with [[AlphaRefine]](https://github.com/MasterBin-IIAU/AlphaRefine), and evaluated on VOT2021 .
 | Method | Dataset  |  Acc.  |  Rob.   |  EAO   |
 |  :----:|  :----:  | :----: |  :----: | :----: |
 |  DCDA  | VOT2016  |  0.5537 |  0.8167|  0.3462  |
 |  DCDA  | VOT2017  |  0.5608 | 1.2332  |   0.2747   |
-|  DCDA  | VOT2020$^1$  |  0.456 |  0.635   |  0.2364  |
-|  DCDA+AR  | VOT2021$^2$  |  0.456 |  0.635   |  0.2364  |
+|  DCDA  | VOT2020[1]  |  0.456 |  0.635   |  0.236  |
+|  DCDA+AR  | VOT2021[2]  |  0.709 |  0.625   |  0.355  |
 
-$^{1,2}$ The VOT2020 and VOT2021 use a new eval protocol [link].
+[1,2] The VOT2020 and VOT2021 use a new eval protocol [link].
 
 ### NFS
 Raw results on NFS30 and NFS240 [[results]](raw_results/DCDA_NFS30_NFS240.zip).
