@@ -17,7 +17,7 @@ on spatial and semantic priors, we propose an edge-aware selection (EAS) and a c
 Source code will be made public after appropriate refactoring.
 
 ## Results
-[!]The raw result files will upload opon our paper online.
+:exclamation The raw result files will upload opon our paper online.
 ### OTB
 Raw results on OTB-2015 [[results]](raw_results/DCDA_OTB2015.zip).
 |  Method | Dataset |  Success  |  Precision|   
