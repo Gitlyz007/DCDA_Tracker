@@ -40,7 +40,7 @@ We also develop a version with [[AlphaRefine]](https://github.com/MasterBin-IIAU
 |  DCDA  | VOT2020[1]  |  0.456 |  0.635   |  0.236  |
 |  DCDA+AR  | VOT2021[2]  |  0.709 |  0.625   |  0.355  |
 
-[1,2] The VOT2020 and VOT2021 use a new eval protocol [link].
+[1,2] The VOT2020 and VOT2021 use a new eval protocol.
 
 ### NFS
 Raw results on NFS30 and NFS240 [[results]](raw_results/DCDA_NFS30_NFS240.zip).
