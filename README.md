@@ -1,4 +1,5 @@
 # Learning Deep Convolutional Descriptor Aggregation for Efficient Visual Tracking
+ [[Paper]](https://link.springer.com/article/10.1007/s00521-021-06638-8)
 This work aims to mine the target representation capability of a pre-trained model, and presents deep convolutional descriptor aggregation (DCDA) for visual tracking. Based
 on spatial and semantic priors, we propose an edge-aware selection (EAS) and a central-aware selection (CAS) method to aggregate the accuracy-aware and robustness-aware features. To make full use of the scene context, our method is derived from one-shot learning by designing a dedicated regression process that is capable of predicting discriminative model in a few iterations. By exploiting robustness feature aggregation, the accuracy feature aggregation, and the discriminative regression, our DCDA with Siamese tracking architecture not only enhances the target prediction capacity, but also achieves a lowcost reuse of the pre-trained model.
 <p align="center">
@@ -13,6 +14,7 @@ on spatial and semantic priors, we propose an edge-aware selection (EAS) and a c
         <img src="Fig_network.jpeg" width="550">
     </a>
 </p> -->
+
 ## Code
 Source code will be made public after appropriate refactoring.
 
