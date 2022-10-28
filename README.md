@@ -16,7 +16,7 @@ on spatial and semantic priors, we propose an edge-aware selection (EAS) and a c
 </p> -->
 
 ## Code
-Source code will be made public after appropriate refactoring.
+Source code will be made public after appropriate refactoring. A naive version can be found at [[VOT Challenge]](https://www.votchallenge.net/vot2020/trackers.html).
 
 ## Results
 ### OTB
